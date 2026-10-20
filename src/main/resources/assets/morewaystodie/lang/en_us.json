@@ -1,0 +1,13 @@
+{
+  "itemGroup.morewaystodie": "Example Mod Tab",
+  "block.morewaystodie.example_block": "Example Block",
+  "item.morewaystodie.example_item": "Example Item",
+
+  "morewaystodie.configuration.title": "More Ways to Die (MWtD) Configs",
+  "morewaystodie.configuration.section.morewaystodie.common.toml": "More Ways to Die (MWtD) Configs",
+  "morewaystodie.configuration.section.morewaystodie.common.toml.title": "More Ways to Die (MWtD) Configs",
+  "morewaystodie.configuration.items": "Item List",
+  "morewaystodie.configuration.logDirtBlock": "Log Dirt Block",
+  "morewaystodie.configuration.magicNumberIntroduction": "Magic Number Text",
+  "morewaystodie.configuration.magicNumber": "Magic Number"
+}
